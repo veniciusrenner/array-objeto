@@ -27,5 +27,5 @@ console.log(pessoa);
 console.log(pessoa.dataNacismento);
 console.log(pessoa.endereco);
 console.log(pessoa.telefone);
-
+//ao chamar uma propiedade que é um objeto, é possível acessar as propriedades desse objeto
 
